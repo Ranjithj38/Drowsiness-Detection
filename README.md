@@ -1,4 +1,4 @@
-Driver Drowsiness Detection System
+##Driver Drowsiness Detection System##
 A real-time Python application that monitors a driver's eyes through a webcam, computes the Eye Aspect Ratio (EAR) from facial landmarks, and triggers an audio alarm when drowsiness is detected — helping prevent road accidents caused by fatigue.
 Python 3.8+
 Computer Vision
